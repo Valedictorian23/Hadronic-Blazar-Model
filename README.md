@@ -1,6 +1,5 @@
 # Blazar PhotoHadronic (pγ) Model 
 
-This markdown script is derived from the README and formatted for easy reference, publication, or documentation.
 
 ---
 
